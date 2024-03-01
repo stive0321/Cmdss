@@ -1,6 +1,7 @@
 { pkgs }: {
 	deps = [
    pkgs.zip
+   pkgs.git-lfs
    pkgs.unzip
 		pkgs.nodejs-16_x
 		pkgs.nodePackages.typescript-language-server
