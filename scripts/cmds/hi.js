@@ -15,6 +15,6 @@ onChat: async function({
 	message,
 	getLang
 }) {
-	if (event.body && event.body.toLowerCase() == "hi") return message.reply("hello love, how can i help you?");
+	if (event.body && event.body.toLowerCase() == "hi") return message.reply("hello love, how Stanley can  help you?");
 }
 };
