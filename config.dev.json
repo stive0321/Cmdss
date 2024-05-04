@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100094118835962",
+    "100078426361784",
     ""
   ],
   "whiteListMode": {
@@ -25,9 +25,9 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Astral AI",
-  "ownerlink": "https://www.facebook.com/profile.php?id=100094118835962",
-  "prefix": "/",
+  "nickNameBot": "Stãñleÿ Artificielle",
+  "ownerlink": "https://www.facebook.com/profile.php?id=100078426361784",
+  "prefix": "@",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
