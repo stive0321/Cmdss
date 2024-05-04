@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ 𝗔𝘀𝘁𝗿𝗮𝗹 𝗔𝗜 ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ Stanley stawa 😗🚬]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 
 module.exports = {
 	config: {
@@ -36,7 +36,7 @@ module.exports = {
 
 			msg += `░█░█░█▀█░█▀▄░█░█
 ░░█░░█░█░█▀▄░█░█
-░░▀░░▀▀▀░▀░▀░▀▀▀\n\n◦❭❯❱ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 & 𝗖𝗔𝗧𝗘𝗚𝗢𝗥𝗬 ❰❮❬◦`; // replace with your name 
+░░▀░░▀▀▀░▀░▀░▀▀▀\n\n◦❭❯❱ stanley & Stawa ❰❮❬◦`; // replace with your name 
 
 			for (const [name, value] of commands) {
 				if (value.config.role > 1 && role < value.config.role) continue;
