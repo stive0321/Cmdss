@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "61556592298248",
-    "password": "orgaai010101",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100043265301021",
+    "100094118835962",
     ""
   ],
   "whiteListMode": {
@@ -26,8 +26,8 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Astral AI",
-  "ownerlink": "https://www.facebook.com/100043265301021",
-  "prefix": "-",
+  "ownerlink": "https://www.facebook.com/profile.php?id=100094118835962",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -38,7 +38,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "mrey1806@gmail.com",
+      "email": "chrisstars893@gmail.com",
       "clientId": "976513846653-nnno8h0as4qsa5embktdv11m97gj4cv6.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04Bl1kgi_WfkaCgYIARAAGAQSNwF-L9IrRrcISrZF_n4bW0P5poI1C2_CmvCCK4DC4RyMcXWDpx01PK6TVeUQXnf6sIXlo06zX9s",
